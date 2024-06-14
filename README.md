@@ -65,5 +65,5 @@ If you have the project up and running, open your web browser and go to `http://
 
 ## 
 
-Thank you for choosing Jerry-AI! We hope you enjoy the experience of exploring the limitless possibilities of AI-generated images. If you encounter any issues or have suggestions for improvement, please feel free to raise an issue or contribute to the project. Happy generating!!
+Thank you for choosing Jerry-AI! We hope you enjoy the experience of exploring the limitless possibilities of AI-generated images. If you encounter any issues or have suggestions for improvement, please feel free to raise an issue or contribute to the project. Happy generating!
 
