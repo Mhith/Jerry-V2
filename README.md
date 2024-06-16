@@ -1,5 +1,5 @@
 
-# Jerry-AI
+# Jerry-AI Version2
 
 ## Description
 Welcome to Jerry-AI, a cutting-edge MERN stack application that harnesses the power of the DALL-E API to create stunning images based on prompts provided by the user. With the help of AI, users can generate unique and imaginative images that cater to their wildest ideas. In addition, Jerry-AI includes community sharing functionality, enabling users to share their generated images with the community. The website also provides features for downloading and searching previously generated images, making it an engaging and interactive platform for creativity and exploration.
